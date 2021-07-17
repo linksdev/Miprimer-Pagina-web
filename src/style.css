@@ -100,3 +100,30 @@ img {
 }
 
 /*Aqui empiezo a darle estrilo al aside*/
+aside {
+    margin: 10px;
+    border: 5px solid seagreen;
+    box-sizing: 5px;
+}
+
+.list-links_Aside {
+    border: 5px solid darkblue;
+    padding: 5px;
+}
+
+.taste_Aside {
+    border: 5px dashed white;
+    margin-bottom: 10px;
+}
+
+.animales_Aside {
+    border: 5px solid skyblue ;
+    margin: 10px;
+}
+
+.gustos_Aside {
+    margin: 5px;
+    padding: 5px;
+}
+
+/*Aqui empieza el estilo del footer*/

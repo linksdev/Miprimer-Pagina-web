@@ -48,4 +48,55 @@ nav {
 /*Selector de id lleva siempre # (Almohadilla) antes del nombre del id*/
 #mainContent {
     border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 20px;
 }
+
+/*Aqui empezare a darle estilo al articulo*/
+article {
+    border: 10px solid rosybrown;
+    padding: 10px;
+}
+
+h2 {
+    margin: 10px;
+    border: 5px dotted gray;
+    padding-inline-start: 10px;
+}
+
+.paragraph_Main {
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 2px;
+}
+
+.content-paragraph_Main {
+    margin: 10px;
+    border: 2px dashed pink;
+    padding-top: 5px;
+}
+
+.div_Main {
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 2px;
+}
+
+.subtitle_Main {
+    margin-bottom: 10px;
+    border: 5px dotted firebrick;
+    padding: 5px;
+}
+
+.content-div_Main {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 5px dashed gold;
+    padding: 5px;
+}
+
+img {
+    margin: 10px;
+}
+
+/*Aqui empiezo a darle estrilo al aside*/

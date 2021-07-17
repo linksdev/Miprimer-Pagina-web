@@ -91,7 +91,7 @@ h2 {
 .content-div_Main {
     margin-bottom: 10px;
     margin-left: 10px;
-    border: 5px dashed gold;
+    border: 3px dashed gold;
     padding: 5px;
 }
 
@@ -102,28 +102,39 @@ img {
 /*Aqui empiezo a darle estrilo al aside*/
 aside {
     margin: 10px;
-    border: 5px solid seagreen;
+    border: 3px solid seagreen;
     box-sizing: 5px;
 }
 
 .list-links_Aside {
-    border: 5px solid darkblue;
+    margin-top: 10px;
+    border: 3px solid darkblue;
     padding: 5px;
 }
 
 .taste_Aside {
-    border: 5px dashed white;
+    border: 3px dashed white;
     margin-bottom: 10px;
 }
 
 .animales_Aside {
-    border: 5px solid skyblue ;
+    border: 3px solid skyblue ;
     margin: 10px;
 }
 
 .gustos_Aside {
-    margin: 5px;
+    margin: 3px;
     padding: 5px;
 }
 
 /*Aqui empieza el estilo del footer*/
+footer {
+    margin: 10px;
+    border: 3px solid tomato;
+    padding: 5px;
+}
+
+.copyr_Footer {
+    border: 5px solid darkmagenta;
+    padding: 3px;
+}
